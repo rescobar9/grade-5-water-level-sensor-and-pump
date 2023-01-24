@@ -1,5 +1,5 @@
 {
-    "name": "Grade 5 Water Level Sensor and Pump",
+    "name": "Water Level Sensor and Pump",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.18",
+        "target": "5.0.12",
         "targetId": "microbit"
     },
     "supportedTargets": [
